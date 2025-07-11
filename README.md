@@ -1,0 +1,2 @@
+# monitor_blocker
+MonitorBlocker is a lightweight Windows system tray application that allows users to temporarily block input on specific monitors by overlaying a transparent window. It features a simple interface to toggle individual monitors, lock or unlock all monitors, and a hold-to-unlock mechanism (3-second left+right mouse click). Designed for minimal resource usage, it runs as a single instance with no console window and includes an embedded icon for easy distribution. Ideal for privacy or focus in multi-monitor setups.
